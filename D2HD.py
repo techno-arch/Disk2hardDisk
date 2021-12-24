@@ -32,6 +32,6 @@ while 1:
            system(r'{} /START /DEST {}/dvd /CLOSE'.format(dvddecrypter, outputpath))#backup disks)
          
         else: 
-            print(error)
+            print("error")
             
             
